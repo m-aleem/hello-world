@@ -1,2 +1,3 @@
 # hello-world
-Intro to GitHub
+
+Hello! I am now using GitHub!
